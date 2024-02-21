@@ -43,7 +43,7 @@ lab:
 
     ![Power Apps Maker ポータルで [開発環境] を選択します。](../media/select-dev-one-environment.png)
 
-1. 左側のナビゲーション ペインから **[アプリ]** を選択し、**[すべて]** を選択します。 Dataverse Accelerator App、Solution Health Hub、Power Pages Management、Package Management View など、いくつかのアプリが一覧表示されます。
+1. 左側のナビゲーション ペインから **[アプリ]** を選択し、**[すべて]** を選択します。 Dataverse Accelerator App、Solution Health Hub、Power Pages Management など、いくつかのアプリが一覧表示されます。
 
 1. 左側のナビゲーション ペインから **[テーブル]** を選択します。 アカウントや連絡先を含む *[共通データ モデル]* の標準テーブルが表示されます。
 
@@ -85,7 +85,7 @@ lab:
 
 1. Power Apps Maker ポータル `https://make.powerapps.com` に移動します
 
-1. **Dev One** 環境内にいることを確認します。
+1. **Dev One** 環境にいることを確認します。
 
 1. **ソリューション**を選択します。
 
