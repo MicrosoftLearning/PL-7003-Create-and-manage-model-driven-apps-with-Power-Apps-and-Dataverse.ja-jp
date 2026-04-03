@@ -2,6 +2,10 @@
 lab:
   title: '課題 3:モデル駆動型アプリを作成する'
   module: 'Module 2: Get started with model-driven apps in Power Apps'
+  description: この演習では、モデル駆動型アプリを作成します。
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 3 - モデル駆動型アプリを作成する

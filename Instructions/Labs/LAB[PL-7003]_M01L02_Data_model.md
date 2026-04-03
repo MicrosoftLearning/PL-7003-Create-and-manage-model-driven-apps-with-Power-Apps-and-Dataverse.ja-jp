@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 2:データ モデル'
   module: 'Module 1: Create tables in Dataverse'
+  description: このラボでは、Dataverse テーブル、列、リレーションシップを作成します。
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 2 - データ モデル
