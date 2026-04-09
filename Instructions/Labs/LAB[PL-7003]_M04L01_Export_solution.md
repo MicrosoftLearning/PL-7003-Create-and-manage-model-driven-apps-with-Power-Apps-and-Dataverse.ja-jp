@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 6:ソリューションのエクスポート'
   module: 'Module 4: Manage solutions in Power Apps and Power Automate'
+  description: このラボでは、ソリューションをエクスポートします
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 6 - ソリューションのエクスポート

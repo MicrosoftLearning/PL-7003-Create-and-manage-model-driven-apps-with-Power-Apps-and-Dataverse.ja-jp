@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 5:モデル駆動型アプリを構成する'
   module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
+  description: このラボでは、モデル駆動型アプリを構成します。
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # 演習ラボ 5 - モデル駆動型アプリを構成する

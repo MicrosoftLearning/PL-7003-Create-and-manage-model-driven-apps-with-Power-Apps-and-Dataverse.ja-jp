@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 1:発行元とソリューション'
   module: 'Module 1: Create tables in Dataverse'
+  description: このラボでは、発行元とソリューションを作成します。
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 1: 発行元とソリューション

@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 4:フォームとビューを構成する'
   module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
+  description: このラボでは、モデル駆動型アプリのフォームとビューを構成します。
+  duration: 30 minutes
+  level: 200
+  islab: true
 ---
 
 # 実習ラボ 4 - フォームとビューを構成する
